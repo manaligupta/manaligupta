@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manaligupta
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Machine learning algorithms using Python ih HackerRank
+- 🌱 I’m currently learning Machine learning algorithms using Python in HackerRank
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me manalics0042@gmail.com
 
